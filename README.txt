@@ -1,4 +1,3 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/msx2rockcity/MTURN-sample)
 ---------------------------------------------
 
      MSX2 3D Wireframe Sample Program
@@ -20,3 +19,5 @@ github化しました
 
 アセンブリ言語ファイルをアセンブルしてPROGRAM.BINというファイルで保存
 ベーシックからbload "PROGRAM.BIN",rで実行します
+
+<a href="https://deepwiki.com/msx2rockcity/MTURN-sample"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
