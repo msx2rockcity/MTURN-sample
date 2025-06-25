@@ -20,4 +20,6 @@ github化しました
 アセンブリ言語ファイルをアセンブルしてPROGRAM.BINというファイルで保存
 ベーシックからbload "PROGRAM.BIN",rで実行します
 
+最終バージョンのMSXPEN　https://msxpen.com/codes/-O9c182VSsZ1aiZ1pQPd
+
 <a href="https://deepwiki.com/msx2rockcity/MTURN-sample"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
